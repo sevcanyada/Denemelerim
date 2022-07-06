@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sevcan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sevcan\\.nuget\\packages"
+    ]
+  }
+}
